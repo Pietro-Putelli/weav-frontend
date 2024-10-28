@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Aland Islands",
+    "dial_code": "+358",
+    "code": "AX"
+  },
+  {
+    "name": "Albania",
+    "dial_code": "+355",
+    "code": "AL"
+  },
+  {
+    "name": "Andorra",
+    "dial_code": "+376",
+    "code": "AD"
+  },
+  {
+    "name": "Austria",
+    "dial_code": "+43",
+    "code": "AT"
+  },
+  {
+    "name": "Belgium",
+    "dial_code": "+32",
+    "code": "BE"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "dial_code": "+387",
+    "code": "BA"
+  },
+  {
+    "name": "Bulgaria",
+    "dial_code": "+359",
+    "code": "BG"
+  },
+  {
+    "name": "Croatia",
+    "dial_code": "+385",
+    "code": "HR"
+  },
+  {
+    "name": "Cyprus",
+    "dial_code": "+357",
+    "code": "CY"
+  },
+  {
+    "name": "Czech Republic",
+    "dial_code": "+420",
+    "code": "CZ"
+  },
+  {
+    "name": "Denmark",
+    "dial_code": "+45",
+    "code": "DK"
+  },
+  {
+    "name": "Estonia",
+    "dial_code": "+372",
+    "code": "EE"
+  },
+  {
+    "name": "Faroe Islands",
+    "dial_code": "+298",
+    "code": "FO"
+  },
+  {
+    "name": "Finland",
+    "dial_code": "+358",
+    "code": "FI"
+  },
+  {
+    "name": "France",
+    "dial_code": "+33",
+    "code": "FR"
+  },
+  {
+    "name": "Germany",
+    "dial_code": "+49",
+    "code": "DE"
+  },
+  {
+    "name": "Gibraltar",
+    "dial_code": "+350",
+    "code": "GI"
+  },
+  {
+    "name": "Greece",
+    "dial_code": "+30",
+    "code": "GR"
+  },
+  {
+    "name": "Guernsey",
+    "dial_code": "+44",
+    "code": "GG"
+  },
+  {
+    "name": "Hungary",
+    "dial_code": "+36",
+    "code": "HU"
+  },
+  {
+    "name": "Iceland",
+    "dial_code": "+354",
+    "code": "IS"
+  },
+  {
+    "name": "Ireland",
+    "dial_code": "+353",
+    "code": "IE"
+  },
+  {
+    "name": "Isle of Man",
+    "dial_code": "+44",
+    "code": "IM"
+  },
+  {
+    "name": "Italy",
+    "dial_code": "+39",
+    "code": "IT"
+  },
+  {
+    "name": "Jersey",
+    "dial_code": "+44",
+    "code": "JE"
+  },
+  {
+    "name": "Latvia",
+    "dial_code": "+371",
+    "code": "LV"
+  },
+  {
+    "name": "Liechtenstein",
+    "dial_code": "+423",
+    "code": "LI"
+  },
+  {
+    "name": "Lithuania",
+    "dial_code": "+370",
+    "code": "LT"
+  },
+  {
+    "name": "Luxembourg",
+    "dial_code": "+352",
+    "code": "LU"
+  },
+  {
+    "name": "Macedonia",
+    "dial_code": "+389",
+    "code": "MK"
+  },
+  {
+    "name": "Malta",
+    "dial_code": "+356",
+    "code": "MT"
+  },
+  {
+    "name": "Moldova",
+    "dial_code": "+373",
+    "code": "MD"
+  },
+  {
+    "name": "Monaco",
+    "dial_code": "+377",
+    "code": "MC"
+  },
+  {
+    "name": "Montenegro",
+    "dial_code": "+382",
+    "code": "ME"
+  },
+  {
+    "name": "Netherlands",
+    "dial_code": "+31",
+    "code": "NL"
+  },
+  {
+    "name": "Norway",
+    "dial_code": "+47",
+    "code": "NO"
+  },
+  {
+    "name": "Poland",
+    "dial_code": "+48",
+    "code": "PL"
+  },
+  {
+    "name": "Portugal",
+    "dial_code": "+351",
+    "code": "PT"
+  },
+  {
+    "name": "Romania",
+    "dial_code": "+40",
+    "code": "RO"
+  },
+  {
+    "name": "San Marino",
+    "dial_code": "+378",
+    "code": "SM"
+  },
+  {
+    "name": "Serbia",
+    "dial_code": "+381",
+    "code": "RS"
+  },
+  {
+    "name": "Slovakia",
+    "dial_code": "+421",
+    "code": "SK"
+  },
+  {
+    "name": "Slovenia",
+    "dial_code": "+386",
+    "code": "SI"
+  },
+  {
+    "name": "Spain",
+    "dial_code": "+34",
+    "code": "ES"
+  },
+  {
+    "name": "Sweden",
+    "dial_code": "+46",
+    "code": "SE"
+  },
+  {
+    "name": "Switzerland",
+    "dial_code": "+41",
+    "code": "CH"
+  },
+  {
+    "name": "Turkey",
+    "dial_code": "+90",
+    "code": "TR"
+  },
+  {
+    "name": "Ukraine",
+    "dial_code": "+380",
+    "code": "UA"
+  },
+  {
+    "name": "United Kingdom",
+    "dial_code": "+44",
+    "code": "GB"
+  },
+  {
+    "name": "United States",
+    "dial_code": "+1",
+    "code": "US"
+  }
+]

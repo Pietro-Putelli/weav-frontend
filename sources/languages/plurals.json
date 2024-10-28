@@ -1,0 +1,46 @@
+{
+    "en": {
+        "person": {
+            "0": "person",
+            "1": "people"
+        },
+        "friend": {
+            "0": "friend",
+            "1": "friends"
+        },
+        "participant": {
+            "0": "participant",
+            "1": "participants"
+        },
+        "time": {
+            "0": "time",
+            "1": "times"
+        },
+        "repost": {
+            "0": "repost",
+            "1": "reposts"
+        },
+    },
+    "it": {
+        "person": {
+            "0": "persona",
+            "1": "persone"
+        },
+        "friend": {
+            "0": "amico",
+            "1": "amici"
+        },
+        "participant": {
+            "0": "partecipante",
+            "1": "partecipanti"
+        },
+        "time": {
+            "0": "volta",
+            "1": "volte"
+        },
+        "repost": {
+            "0": "repost",
+            "1": "reposts"
+        }
+    }
+}

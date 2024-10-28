@@ -1,0 +1,32 @@
+{
+    "en": {
+        "hour": "hour",
+        "hours": "hours",
+        "minute": "minute",
+        "minutes": "minutes",
+        "day": "day",
+        "days": "days",
+        "today": "Today",
+        "tomorrow": "Tomorrow",
+        "startingSoon": "Starting soon",
+        "now": "Now",
+        "starts_at": "Starts at",
+        "ends_at": "Ends at",
+        "ago": "ago"
+    },
+    "it": {
+        "hour": "ora",
+        "hours": "ore",
+        "minute": "minuto",
+        "minutes": "minuti",
+        "day": "giorno",
+        "days": "giorni",
+        "today": "Oggi",
+        "tomorrow": "Domani",
+        "startingSoon": "Inizia a breve",
+        "now": "Adesso",
+        "starts_at": "Inizia alle",
+        "ends_at": "Termina alle",
+        "ago": "fa"
+    }
+}
