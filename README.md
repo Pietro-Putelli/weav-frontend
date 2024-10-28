@@ -14,4 +14,4 @@ The network fosters a culture of open sharing and lively discussions surrounding
 
 ![Screenshot 2024-10-28 at 10 20 16 PM](https://github.com/user-attachments/assets/f0bbeb10-fa72-4a04-a8ba-f3fa83c01439)
 
-© Pietro Putelli. All rights reserved.
+**© Pietro Putelli. All rights reserved.**
